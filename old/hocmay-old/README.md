@@ -1,9 +1,3 @@
-Bản cũ (`README - old`) thì nội dung của nó đã **khớp khít 100% với đống code OLD** (hàm xử lý thô nằm ngoài Pipeline, có dùng Stemmer, chỉ chạy tiếng Anh) nên không cần phải sửa đổi gì về mặt logic hay tính năng của hệ thống cả.
-
-Tuy nhiên, có một chỗ sai lệch thực tế nằm ở **Mục 4 (Kết quả đạt được)**. Trong file `train.py - old` của mày, tỷ lệ chia tập dữ liệu Train/Test thực tế đang cấu hình là **70/30** (`test_size=0.3`), nhưng trong file README cũ này lại đang viết nhầm thành **80/20**.
-
-Đồng thời, để mày tiện lưu trữ hoặc đẩy cả bản cũ này lên GitHub (nếu muốn làm nhánh `old-version` hoặc lưu làm tài liệu đối chiếu), tao đã đính chính lại con số đó và đóng gói toàn bộ thành 1 bản `.md` hoàn chỉnh duy nhất. Mày chỉ cần copy đúng 1 lần dưới đây:
-
 ```markdown
 # BÁO CÁO DỰ ÁN: HỆ THỐNG PHÂN LOẠI TIN NHẮN SPAM (SPAM CLASSIFIER) - PHIÊN BẢN NGUYÊN BẢN (OLD)
 
