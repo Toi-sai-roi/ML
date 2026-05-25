@@ -80,7 +80,3 @@ streamlit run app.py
 ```
 
 *Lưu ý:* Khi lệnh chạy thành công, Terminal sẽ hiện ra 2 đường dẫn (Local URL và Network URL). Hãy copy một đường dẫn và dán vào trình duyệt Web của bạn để sử dụng giao diện. Tại đây, bạn có thể gõ bất kỳ tin nhắn nào và ấn "Kiểm tra" để xem kết quả trực quan!
-
-```
-
-```
