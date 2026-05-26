@@ -17,7 +17,7 @@ Dự án được chia làm 2 giai đoạn phát triển rõ rệt, đại diệ
 ### 2. 📂 [Phiên Bản Cải Tiến Đa Ngôn Ngữ (NEW)](./new/hocmay-new/)
 * **Đặc trưng:** Đóng gói trọn gói luồng tiền xử lý NLP vào thẳng `TfidfVectorizer` bên trong Scikit-learn Pipeline vật lý. Loại bỏ Stemming để tối ưu hóa ngôn ngữ.
 * **Ngôn ngữ hỗ trợ:** Đa ngôn ngữ hỗn hợp **Anh - Việt** (Tích hợp thêm tập dữ liệu `spam_vietnamese.csv`).
-* **Kỹ thuật nâng cao:** Xử lý bài toán mất cân bằng dữ liệu bằng kỹ thuật lấy mẫu (Down-sampling) tỷ lệ 1:1.
+* **Kỹ thuật nâng cao:** Xử lý bài toán mất cân bằng dữ liệu bằng kỹ thuật lấy mẫu (Down-sampling) tỷ lệ cân bằng gần 1:1.
 * **Giao diện Web:** Tích hợp Streamlit UI cao cấp hỗ trợ nhập văn bản trực tiếp (đo xác suất % thời gian thực) và **Upload file để quét tin nhắn rác hàng loạt**.
 * 👉 [Xem chi tiết báo cáo và hướng dẫn bản NEW](./new/hocmay-new/README.md)
 
